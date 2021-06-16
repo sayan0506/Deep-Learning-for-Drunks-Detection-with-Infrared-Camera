@@ -1,9 +1,19 @@
 # Deep-Learning-for-Drunks-Detection-with-Infrared-Camera
 Deep Learning for Drunks Detection with Infrared Camera Kera implementation
 
-# **Data Acquisition Info**
 
-[SOBER  -  DRUNK   DATABASE](https://docs.google.com/document/d/1DqlKALYfs9uyE4kB-TXJ8tAN3tKjTu2JL_HXAoga-XY/edit)
+## **Problem Statement**
+
+The task here is is to build a classifier that can classify for a given image as sober or mild drunk or drunk.  In order to train or test, we can consider all four, front, side etc. at once to classify whether drunk or sober.
+
+The idea is to have a classifier which can be used in Real Life scenarios so you are free to make modifications / assumptions as long as these are valid in Real-Life scenarios.
+
+
+## **Dataset**
+
+The dataset contains IR images captured from a thermal camera for 50 different people. For each image, the class labels are provided in filenames. The labeling nomenclature is explained  along with the data capture process in the **“readme”** file here - **[SOBER  -  DRUNK   DATABASE](https://docs.google.com/document/d/1DqlKALYfs9uyE4kB-TXJ8tAN3tKjTu2JL_HXAoga-XY/edit)**. 
+
+Dataset contains images of 41 people in separate folders, taken from an IR sensor. For each person, images are taken in 4 conditions: sober (before drinking), 20 mins after drinking, 40 mins after drinking and 1hr after drinking 4 glasses of wine. For each condition and for each person, 4 images are taken: front face, side face, eyes, and hand palm.
 
 ## **Reference**
 
