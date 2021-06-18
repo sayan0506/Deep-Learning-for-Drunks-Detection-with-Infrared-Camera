@@ -21,3 +21,4 @@ Dataset contains images of 41 people in separate folders, taken from an IR senso
 * [Deep Learning Technology for Drunks Detection with Infrared Camera](https://ieeexplore.ieee.org/document/9165395)
 * [OpenCV Colormap](https://docs.opencv.org/3.4/d3/d50/group__imgproc__colormap.html)
 * [Flir Image Extractor](https://pypi.org/project/flirimageextractor/)
+* [Classification on imbalanced data](https://www.tensorflow.org/tutorials/structured_data/imbalanced_data)
