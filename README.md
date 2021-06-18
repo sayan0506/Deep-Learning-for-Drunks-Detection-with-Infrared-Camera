@@ -23,3 +23,4 @@ Dataset contains images of 41 people in separate folders, taken from an IR senso
 * [Flir Image Extractor](https://pypi.org/project/flirimageextractor/)
 * [Classification on imbalanced data](https://www.tensorflow.org/tutorials/structured_data/imbalanced_data)
 * [Analyzing data augmentation for image classification](https://towardsdatascience.com/analyzing-data-augmentation-for-image-classification-3ed30aa61411)
+* [How we utilized gamma correction for increasing our training data ?](https://medium.com/giscle/how-we-utilized-gamma-correction-for-increasing-our-training-data-47c16a040adc)
