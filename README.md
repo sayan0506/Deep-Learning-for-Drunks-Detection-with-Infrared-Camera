@@ -22,3 +22,4 @@ Dataset contains images of 41 people in separate folders, taken from an IR senso
 * [OpenCV Colormap](https://docs.opencv.org/3.4/d3/d50/group__imgproc__colormap.html)
 * [Flir Image Extractor](https://pypi.org/project/flirimageextractor/)
 * [Classification on imbalanced data](https://www.tensorflow.org/tutorials/structured_data/imbalanced_data)
+* [Analyzing data augmentation for image classification](https://towardsdatascience.com/analyzing-data-augmentation-for-image-classification-3ed30aa61411)
