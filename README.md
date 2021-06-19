@@ -16,6 +16,11 @@ Dataset contains images of 41 people in separate folders, taken from an IR senso
 
 **Dataset link - [SOBER  -  DRUNK   DATABASE](https://drive.google.com/drive/folders/1P1UG36IzvN0QVntn3t2atph215QU_sG1)**
 
+## **Data Pre-processing**
+
+**[data Pre-processing Notebook](https://colab.research.google.com/drive/1WDFH_bhImL9oo2-dK910kyuioMmVXKCt?usp=sharing)**
+
+
 ## **Reference**
 
 * [Deep Learning Technology for Drunks Detection with Infrared Camera](https://ieeexplore.ieee.org/document/9165395)
