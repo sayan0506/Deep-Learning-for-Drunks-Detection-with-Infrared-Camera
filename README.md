@@ -20,6 +20,30 @@ Dataset contains images of 41 people in separate folders, taken from an IR senso
 
 **[data Pre-processing Notebook](https://colab.research.google.com/drive/1WDFH_bhImL9oo2-dK910kyuioMmVXKCt?usp=sharing)**
 
+## **Colab Notebook study**
+
+Below are the note book links conatining the extensive study regarding drunk state detection using several approaches.
+
+1. Deep_Learning_for_Binary_Drunks_Detection_with_Infrared_Camera_v2(Sober+3).ipynb
+info: main notebook contains best model( custom base model), binary classification(sober state or drunk)
+[colab link](https://colab.research.google.com/drive/1uNglSHg5TjJ884sgD3dYqpB-B2NQJECP?usp=sharing)
+
+2. Data_Pre-processsing_for_Binary_Drunks_Detection_with_Infrared_Camera.ipynb
+info: study regarding data preprocessing is done here
+[colab link](https://colab.research.google.com/drive/1WDFH_bhImL9oo2-dK910kyuioMmVXKCt?usp=sharing)
+
+3. Deep_Learning_for_Binary_Drunks_Detection_with_Infrared_Camera_v2(Sober+Drunk_state_3).ipynb
+info: binary classfication experiements regarding (sober state+drunk state 3)
+[colab link](https://colab.research.google.com/drive/1Luua0oK82Qd4XSx08n5NVQHCqf0LDhoW?usp=sharing)
+
+4. Deep_Learning_for_Multi-Class_Drunks_Detection_with_Infrared_Camera_v2.ipynb
+info: multi class/label classification
+[colab link](https://colab.research.google.com/drive/1HhpXdmf9l0QtHBZDQpJFlQQS2sXsGY4l?usp=sharing)
+
+5. Deep_Learning_for_Binary_Drunks_Detection_with_Infrared_Camera_v2(Sober+3_Drunks)_inverted.ipynb
+info: same as 1., but image is inverted(result very poor)
+[colab link](https://colab.research.google.com/drive/1kfk0dv-E1aW9Lautx7-MP-Non0W8KIrw?usp=sharing)
+
 
 ## **Reference**
 
