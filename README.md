@@ -20,7 +20,7 @@ Dataset contains images of 41 people in separate folders, taken from an IR senso
 
 **[data Pre-processing Notebook](https://colab.research.google.com/drive/1WDFH_bhImL9oo2-dK910kyuioMmVXKCt?usp=sharing)**
 
-## **Colab Notebook study**
+## **Extensive study on drunk detection**
 
 Below are the note book links conatining the extensive study regarding drunk state detection using several approaches.
 
